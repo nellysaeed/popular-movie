@@ -11,7 +11,7 @@ import java.net.URL;
 
 public class DownloadTask extends AsyncTask<String, Void, String> {
 
-    private final String API_KEY = "3962b48bc8950898572dc13f870c3439";
+    private final String API_KEY = "";
     HttpURLConnection urlConnection = null;
     BufferedReader reader = null;
     String response = null;
