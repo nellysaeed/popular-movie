@@ -10,6 +10,8 @@ Allow user to tap on a movie poster and transition to a details screen with addi
 - Release date
 
 To fetch popular movies, you will use the API from << themoviedb.org.>> 
-If you don’t already have an account you will need to create one in order to request an API Key.
+If you don’t already have an account you will need to create one.
 
 Put Your API KEY in DownloadTask.java class file at this line private final String API_KEY = "YOUR-API-KEY";
+
+
