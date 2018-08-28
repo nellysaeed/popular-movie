@@ -14,4 +14,8 @@ If you don’t already have an account you will need to create one.
 
 Put Your API KEY in DownloadTask.java class file at this line private final String API_KEY = "YOUR-API-KEY";
 
+![one](https://user-images.githubusercontent.com/36165561/44728883-cdad9680-aadd-11e8-995b-56673bdd1501.png)
+![two](https://user-images.githubusercontent.com/36165561/44728971-05b4d980-aade-11e8-904b-609b81c8359f.png)
+
+
 
